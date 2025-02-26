@@ -6,8 +6,8 @@ This project implements a lip sync model for generating realistic lip-synced vid
 
 Click on the links below to view the generated videos:
 
-- [Result 1](#)
-- [Result 2](#)
+- [Result 1](#/output/result1.mp4)
+- [Result 2](#/output/result2.mp4)
 
 > **Note:** GitHub may not natively play these videos in the README. You can download or view them directly by clicking the links. Alternatively, you can embed HTML video tags if your viewer supports it.
 

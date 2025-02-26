@@ -39,11 +39,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-To generate a lip-synced video, run the following command from the project root:
+To generate a lip-synced video, run the following command from the Wav2Lip folder:
 ```bash
 python inference.py --checkpoint_path <path-to-checkpoint> --face input/anika_speech.mp4 --audio input/input_audio.mp3
 ```
-Replace `<path-to-checkpoint>` with the actual path to your downloaded model checkpoint. The output video(s) will be saved in the `output/` folder.
+Replace `<path-to-checkpoint>` with the actual path to your downloaded model checkpoint (for more information check Wav2Lip repository). The output video(s) will be saved in the `result` folder in the Wave2Lip folder.
 
 ## Additional Information
 

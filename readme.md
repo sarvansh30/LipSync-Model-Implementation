@@ -2,14 +2,8 @@
 
 This project implements a lip sync model for generating realistic lip-synced videos as part of an internship assignment. The implementation is based on the open-source Wav2Lip repository, which was used to create the final results.
 
-## Resulting Videos Preview
-
-Click on the links below to view the generated videos:
-
-- [Result 1]([#/output/result1.mp4](https://github.com/sarvansh30/LipSync-Model-Implementation/blob/main/output/result1.mp4))
-- [Result 2]([#/output/result2.mp4](https://github.com/sarvansh30/LipSync-Model-Implementation/blob/main/output/result2.mp4))
-
-> **Note:** GitHub may not natively play these videos in the README. You can download or view them directly by clicking the links. Alternatively, you can embed HTML video tags if your viewer supports it.
+## Resulting Videos 
+**Check the output folder**
 
 ## Repository Structure
 
